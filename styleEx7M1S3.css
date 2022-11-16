@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    padding: 70px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:10px 20px;
+    width: 100%;
+    margin: 0;
+    background-color: bisque;
+}
+
+div {
+   justify-items: center;
+   align-self: center;
+   align-content: center;
+   align-items: center;
+   text-align: center;
+}
+
+img {
+    width: 40%;
+    margin-top: 80px;
+    border-radius: 50px;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 40px;
+    margin:20px;
+    color: rgb(94, 87, 81);
+}
+
